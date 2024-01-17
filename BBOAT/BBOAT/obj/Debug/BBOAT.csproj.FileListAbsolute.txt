@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BBOAT\BBOAT\bin\Debug\BBOAT.exe.config
+C:\Users\Admin\source\repos\BBOAT\BBOAT\bin\Debug\BBOAT.exe
+C:\Users\Admin\source\repos\BBOAT\BBOAT\bin\Debug\BBOAT.pdb
+C:\Users\Admin\source\repos\BBOAT\BBOAT\obj\Debug\BBOAT.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BBOAT\BBOAT\obj\Debug\BBOAT.Form1.resources
+C:\Users\Admin\source\repos\BBOAT\BBOAT\obj\Debug\BBOAT.Properties.Resources.resources
+C:\Users\Admin\source\repos\BBOAT\BBOAT\obj\Debug\BBOAT.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BBOAT\BBOAT\obj\Debug\BBOAT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BBOAT\BBOAT\obj\Debug\BBOAT.exe
+C:\Users\Admin\source\repos\BBOAT\BBOAT\obj\Debug\BBOAT.pdb
